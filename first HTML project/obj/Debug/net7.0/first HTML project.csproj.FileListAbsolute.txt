@@ -1,0 +1,14 @@
+C:\Users\Empower\source\repos\first HTML project\first HTML project\bin\Debug\net7.0\first HTML project.exe
+C:\Users\Empower\source\repos\first HTML project\first HTML project\bin\Debug\net7.0\first HTML project.deps.json
+C:\Users\Empower\source\repos\first HTML project\first HTML project\bin\Debug\net7.0\first HTML project.runtimeconfig.json
+C:\Users\Empower\source\repos\first HTML project\first HTML project\bin\Debug\net7.0\first HTML project.dll
+C:\Users\Empower\source\repos\first HTML project\first HTML project\bin\Debug\net7.0\first HTML project.pdb
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.AssemblyInfoInputs.cache
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.AssemblyInfo.cs
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.csproj.CoreCompileInputs.cache
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.dll
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\refint\first HTML project.dll
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.pdb
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\first HTML project.genruntimeconfig.cache
+C:\Users\Empower\source\repos\first HTML project\first HTML project\obj\Debug\net7.0\ref\first HTML project.dll
